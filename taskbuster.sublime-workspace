@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"G",
+				"girl"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"PA",
+				"pass	keyword"
+			],
+			[
+				"ona",
+				"onadata	module"
+			],
+			[
+				"c",
+				"conf	module"
+			],
+			[
+				"ap",
+				"apps"
+			],
+			[
+				"v",
+				"viewsets"
+			],
+			[
+				"a",
+				"apps	module"
+			],
+			[
+				"mock",
+				"mock_submit_csv_async"
+			],
+			[
+				"e",
+				"exceptions	module"
+			],
+			[
+				"ta",
+				"task_id	statement"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"se",
+				"settings	instance"
+			],
+			[
+				"clear",
+				"clear_cache"
+			],
+			[
+				"me",
+				"metadata"
+			],
+			[
+				"cle",
+				"clear_cache	function"
+			],
+			[
+				"x",
+				"xform_viewset	module"
+			],
+			[
+				"get_",
+				"get_object	function"
+			],
+			[
+				"IM",
+				"import	keyword"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"set",
+				"set_trace	function"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"user",
+				"username	statement"
+			],
+			[
+				"twit",
+				"twitter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "taskbuster_project",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/chepkemoi/ona/core/docs/index.rst",
+		"/home/chepkemoi/ona/core/onadata/settings/common.py",
+		"/home/chepkemoi/ona/core/docs/conf.py",
+		"/home/chepkemoi/projects/djangogal/intro.py",
+		"/home/chepkemoi/ona/core/onadata/libs/utils/osm.py",
+		"/home/chepkemoi/ona/core/onadata/apps/logger/models/attachment.py",
+		"/home/chepkemoi/ona/core/onadata/libs/renderers/renderers.py",
+		"/home/chepkemoi/ona/core/onadata/libs/filters.py",
+		"/home/chepkemoi/taskbuster_project/taskbuster_project",
+		"/home/chepkemoi/ona/core/docs/apps.logger.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.templatetags.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.restservice.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.restservice.rst",
+		"/home/chepkemoi/ona/core/docs/apps.restservice.services.rst",
+		"/home/chepkemoi/ona/core/docs/apps.restservice.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.rst",
+		"/home/chepkemoi/ona/core/docs/apps.sms_support.providers.rst",
+		"/home/chepkemoi/ona/core/docs/apps.sms_support.rst",
+		"/home/chepkemoi/ona/core/docs/apps.sms_support.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.xform_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.note_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.metadata_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.data_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.connect_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.briefcase_api.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.charts_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.attachment_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.user_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.user_profile_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.team_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.submissionstats_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.stats_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.project_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.osm_viewset.rst",
+		"/home/chepkemoi/ona/core/onadata/apps/api/viewsets/data_viewset.py",
+		"/home/chepkemoi/ona/core/onadata/apps/main/tests/fixtures/form_with_unicode_in_relevant_column.xlsx",
+		"/home/chepkemoi/ona/core/onadata/apps/main/forms.py",
+		"/home/chepkemoi/ona/core/onadata/apps/main/templates/api_token.html",
+		"/home/chepkemoi/ona/core/docs/api.md",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.organization_profile_viewset.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.xform_list_api.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.xform_submission_api.rst",
+		"/home/chepkemoi/ona/core/onadata/apps/api/viewsets/__init__.py",
+		"/home/chepkemoi/ona/core/docs/data.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.templatetags.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.management.commands.rst",
+		"/home/chepkemoi/ona/core/docs/apps.viewer.management.rst",
+		"/home/chepkemoi/ona/core/docs/apps.stats.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.stats.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.management.rst",
+		"/home/chepkemoi/ona/core/docs/apps.main.management.commands.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.tests.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.management.rst",
+		"/home/chepkemoi/ona/core/docs/apps.logger.management.commands.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.viewsets.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.tests.viewsets.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.tests.views.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.tests.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.tests.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.tests.management.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.models.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.migrations.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.management.rst",
+		"/home/chepkemoi/ona/core/docs/apps.api.management.commands.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.management.rst",
+		"/home/chepkemoi/ona/core/docs/modules.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.rst",
+		"/home/chepkemoi/ona/core/docs/quick_start.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.viewsets.charts_viewset module.rst",
+		"/home/chepkemoi/ona/core/docs/_build/html/apps.html",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.restservice.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.libs.utils.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.libs.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.libs.data.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.viewer.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.stats.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.sms_support.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.main.rst",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.logger.rst",
+		"/home/chepkemoi/ona/core/onadata/libs/utils/log.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/viewsets/submissionstats_viewset.py",
+		"/home/chepkemoi/projects/core/onadata/settings/common.py",
+		"/home/chepkemoi/ona/core/onadata/apps/main/context_processors.py",
+		"/home/chepkemoi/ona/core/script/monit/postgres",
+		"/home/chepkemoi/ona/core/docs/viewsets.rst",
+		"/home/chepkemoi/ona/core/docs/make.bat",
+		"/home/chepkemoi/ona/core/docs/api.viewsets.rst",
+		"/home/chepkemoi/ona/core/onadata/apps/api/viewsets/xform_viewset.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/tests/viewsets/test_xform_viewset.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/tests/viewsets/test_abstract_viewset.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/viewsets/project_viewset.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/tools.py",
+		"/home/chepkemoi/ona/core/onadata/libs/utils/logger_tools.py",
+		"/home/chepkemoi/ona/core/docs/onadata.apps.api.tests.models.rst",
+		"/home/chepkemoi/ona/core/onadata/apps/logger/xform_instance_parser.py",
+		"/home/chepkemoi/ona/core/onadata/apps/viewer/models/data_dictionary.py",
+		"/home/chepkemoi/ona/core/onadata/apps/api/tasks.py",
+		"/home/chepkemoi/ona/core/onadata/libs/tests/serializers/test_attachment_serializer.py",
+		"/home/chepkemoi/ona/core/onadata/apps/logger/tests/models/test_attachment.py",
+		"/home/chepkemoi/ona/core/script/test",
+		"/home/chepkemoi/ona/core/onadata/apps/api/tests/models/test_abstract_models.py",
+		"/home/chepkemoi/ona/core/onadata/libs/tests/test_permissions.py",
+		"/home/chepkemoi/ona/core/onadata/apps/logger/tests/test_encrypted_submissions.py",
+		"/home/chepkemoi/ona/core/onadata/apps/viewer/tests/test_exports.py",
+		"/home/chepkemoi/ona/core/docs/changelog.txt",
+		"/home/chepkemoi/ona/core/onadata/libs/serializers/chart_serializer.py",
+		"/home/chepkemoi/ona/core/onadata/apps/logger/tests/fixtures/childrens_survey_with_a_very_long_name.xls",
+		"/home/chepkemoi/ona/core/onadata/libs/utils/user_auth.py",
+		"/home/chepkemoi/ona/core/onadata/apps/main/tests/test_form_errors.py",
+		"/home/chepkemoi/ona/core/onadata/apps/main/templates/getting_started.html",
+		"/home/chepkemoi/ona/core/onadata/apps/main/google_export.py",
+		"/home/chepkemoi/ona/core/docs/_build/html/genindex.html",
+		"/home/chepkemoi/ona/core/.gitignore",
+		"/home/chepkemoi/ona/core/onadata/apps/restservice/tests/test_restservice.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/chepkemoi/ona/core",
+			"/home/chepkemoi/ona/core/onadata",
+			"/home/chepkemoi/ona/core",
+			"/home/chepkemoi/ona/core/onadata"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ANONYMOUS_USER_ID",
+			"osm",
+			"TypeError",
+			"ParseError",
+			"TypeError",
+			"try ",
+			"ANONYMOUS_USER_ID",
+			"apps.sms_support",
+			"app.sms_support",
+			"create",
+			" '",
+			",",
+			"none",
+			" self._publish_xls_form_to_project()\n            view = XFormViewSet.as_view({'post': 'csv_import'})\n            csv_import = open(\n                os.path.join(\n                    settings.PROJECT_ROOT, 'libs', 'utils', 'tests',\n                    'fixtures', 'good.csv'))\n            post_data = {'csv_file': csv_import}\n            request = self.factory.post('/', data=post_data, **self.extra)\n            response = view(request, pk=self.xform.id)\n            self.assertEqual(response.status_code, 200)\n            self.assertEqual(response.get('Last-Modified'), None)\n            self.assertEqual(response.data.get('additions'), 9)\n            self.assertEqual(response.data.get('updates'), 0)",
+			"submit_csv_async",
+			"override_settings",
+			"viewsests",
+			"submit_csv_async",
+			"UPDATE",
+			"update",
+			"task_id",
+			"raise",
+			"\\",
+			"xform",
+			"permission",
+			"shared form",
+			"submit",
+			"perm",
+			"remove_perm",
+			"delete",
+			"delete ",
+			"delete specific instance",
+			"post_save",
+			"export_delete_callback",
+			"post_de",
+			"users",
+			"csv",
+			"export",
+			"XFormViewSet",
+			"data=",
+			"xform",
+			"404",
+			"local_",
+			"secret",
+			"local",
+			"databa",
+			"drop",
+			"UserProfile",
+			"urlparse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "taskbuster_project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "taskbuster.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"filter",
+				"onadata/libs/filters.py"
+			],
+			[
+				"atta",
+				"onadata/apps/logger/models/attachment.py"
+			],
+			[
+				"comm",
+				"onadata/settings/common.py"
+			],
+			[
+				"tasks",
+				"core/onadata/apps/api/tasks.py"
+			],
+			[
+				"test_abst",
+				"core/onadata/apps/api/tests/viewsets/test_abstract_viewset.py"
+			],
+			[
+				"",
+				"core/.gitignore"
+			],
+			[
+				"user_a",
+				"core/onadata/libs/utils/user_auth.py"
+			],
+			[
+				"urls.py",
+				"core/onadata/apps/main/urls.py"
+			],
+			[
+				"view",
+				"core/onadata/apps/logger/views.py"
+			],
+			[
+				"removepermi",
+				"core/onadata/libs/mixins/view_permission_mixin.py"
+			],
+			[
+				"xf",
+				"core/onadata/apps/logger/models/xform.py"
+			],
+			[
+				"per",
+				"core/onadata/libs/permissions.py"
+			],
+			[
+				"metadata",
+				"core/onadata/apps/main/models/meta_data.py"
+			],
+			[
+				"xform_view",
+				"core/onadata/apps/api/viewsets/xform_viewset.py"
+			],
+			[
+				"test_xform",
+				"core/onadata/apps/api/tests/viewsets/test_xform_viewset.py"
+			],
+			[
+				"xform_v",
+				"core/onadata/apps/api/viewsets/xform_viewset.py"
+			],
+			[
+				"ma",
+				"core/manage.py"
+			],
+			[
+				"mana",
+				"manage.py"
+			],
+			[
+				"loc",
+				"~/ona/core/local_settings.py"
+			],
+			[
+				"user",
+				"onadata/apps/main/models/user_profile.py"
+			],
+			[
+				"user_pr",
+				"onadata/apps/main/models/user_profile.py"
+			],
+			[
+				"data",
+				"onadata/apps/viewer/models/data_dictionary.py"
+			],
+			[
+				"forms",
+				"onadata/apps/main/forms.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 796.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 388.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
