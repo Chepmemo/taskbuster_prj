@@ -21,6 +21,18 @@
 		{
 			"follow_symlinks": true,
 			"path": "/home/chepkemoi/Documents/mysite/polls"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/chepkemoi/mysite"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/chepkemoi/djangoproject/mysite"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/chepkemoi/enketo-express"
 		}
 	]
 }
